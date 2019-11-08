@@ -49,7 +49,7 @@ cd virtual_libraries/
 sh install_linux.sh
 ```
 
-Once the installation is done, you can activate the virtual conda environement for this project:
+Once the installation is done, you can activate the virtual conda environment for this project:
 
 ```
 conda activate mollib
